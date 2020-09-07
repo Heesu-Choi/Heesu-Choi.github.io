@@ -1,5 +1,5 @@
 ---
-title: "datacamp: "
+title: "datacamp: 영어로 배우는 프로그래밍"
 date: 2020-09-08 01:55:28 -0400
 categories:
   - datacamp
